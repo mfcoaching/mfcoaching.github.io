@@ -3841,6 +3841,18 @@ ul {
 }
 
 /*=================== contact banner start ====================*/
+.contact-about {
+  text-align: center;
+}
+
+.contact-about p {
+  text-align: left;
+}
+
+.contact-about div.about_btn {
+  margin-bottom: 50px;
+}
+
 /* line 3, ../../01 cl html template/03_jun 2019/181_Fitness Trainer_html/sass/_contact.scss */
 .contact-info {
   margin-bottom: 25px;
